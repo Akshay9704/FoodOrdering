@@ -1,5 +1,5 @@
 {
-  "name": "foodordering",
+  "name": "foodorderings",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -63,5 +63,5 @@
   "resolutions": {
     "react-refresh": "~0.14.0"
   },
-  "private": true
+  "private": false
 }
